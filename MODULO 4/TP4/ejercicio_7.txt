@@ -1,0 +1,7 @@
+sobreescribe no agrega Esto es solo una prueba de crear un archivo txt usando un metodo dentro de una clase
+ Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
+ Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
+ Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
+ Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
+ Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
+ Seguimos agregando Agregamos una segunda linea al archivo txt, se agrega una nueva linea porque al principio tengo un salto de linea
